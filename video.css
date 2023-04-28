@@ -1,0 +1,16 @@
+@charset “utf-8”;
+/* CSS Document */
+
+#video{
+	Width:720px;
+	Margin: 20px auto;
+	Background:rgb(17, 243, 28);
+	Padding:5px;   /*este padding le indicara la distancia entre el video y los margenes*/
+	Border:2px solid #C33;  /*agregar un borde rojo*/
+	Border-radius:8px;    /*bordes redondeados para todos los navegadores*/
+	“moz” border-radius:8px;   /*solo para mozilla*/
+	“webkit” border-radius:8px;   /*solo para chrome*/
+}
+#liga{
+    Text-align: center;
+}

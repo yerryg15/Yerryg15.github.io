@@ -1,0 +1,96 @@
+@charset “UTF-8”;
+/*CSS DOCUMENT*/
+*{
+    Margin: 0;
+    Padding: 0;
+}
+.contenedor{
+    Width: 900px;
+    Height: 900px;
+    Background: rgb(248, 60, 12);
+    Margin: auto;
+}
+Header{
+    Width: 900px;
+    Height: 100px;
+    Background: black;
+}
+Header img{
+    Width: 70px;
+    Height: 60px;
+    Float: left;
+    Padding: 10px 22px;
+}
+H1{
+    Color: aliceblue;
+    Text-align: center;
+    Line-height: 80px;
+}
+Nav{
+    Width: 900px;
+    Height: 50px;
+    Background: rgb(83, 180, 99);
+    Text-align: center;
+}
+Li{
+    Display: inline-block;
+    Padding: 15px;
+    Font-size: 25px;
+}
+A{
+    Text-decoration: none;
+}
+H2{
+    Text-align: center;
+}
+.union{
+    Float: left;
+}
+.seccion1{
+    Width: 900px;
+    Height: 350px;
+    Background: rgb(7, 253, 68);
+}
+.seccion1 p{
+        Text-align: justify;
+        Padding: 10px;
+        Color: black;
+        Font-size: 14px;
+}
+.seccion1 img{
+    Width: 250px;
+    Height: auto;
+    Margin: auto;
+    Display: block;
+    Border-radius: 15px;
+}
+.seccion2{
+    Width: 900px;
+    Height: 350px;
+    Background: rgb(6, 250, 59);
+}
+.seccion2 img{
+    Width: 250px;
+    Height: 200px;
+    Margin: auto;
+    Display: block;
+    Border-radius: 15px;
+}
+.seccion2 p{
+    Text-align: justify;
+    Padding: 10px;
+    Color: black;
+    Font-size: 14px;
+}
+Footer{
+    Width: 900px;
+    Height: 50px;
+    Background: rgb(0, 0, 8);
+    Clear: both;
+}
+Footer p{
+    Color: aliceblue;
+    Text-align: center;
+    Line-height: 45px;
+}
+
